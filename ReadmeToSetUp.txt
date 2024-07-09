@@ -17,7 +17,7 @@ This project is a real-time Markdown editor built with Node.js and React. It con
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/markdown-editor.git
+git clone https://github.com/Dhanush-iyer/markdown-editor.git
 cd markdown-editor
 
 
